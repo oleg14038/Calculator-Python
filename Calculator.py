@@ -7,9 +7,6 @@ def canculator(num, num2, operator):
         print('Multiplication [məltəpləˈkāSH(ə)n]', num * num2)
     elif operator == '/': 
         print('Division [dəˈviZHən] [dɪˈvɪʒən]', num / num2)
-
-
-
     
 while True: # До : загаловок, а после инструкция 
 
