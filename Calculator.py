@@ -9,7 +9,6 @@ def canculator(num, num2, operator):
         print('Division [dəˈviZHən] [dɪˈvɪʒən]', num / num2)
 
 
-
     
 while True: # До : загаловок, а после инструкция 
 
